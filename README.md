@@ -5,6 +5,6 @@ Sudoku Solver using the backtracking algorithm. Includes a GUI for visualization
 Play sudoku by running gui.py!  
 There are 5 games provided in the games.txt file, in increasing order of difficulty. These are loaded into the GUI.    
 
-CLick on a cell to select it.  
+Click on a cell to select it.  
 Type a digit to enter it into the active cell. Press BACKSPACE or DELETE to remove it.  
 Click Solve to watch the backtracking algorithm solve the Sudoku Board!
